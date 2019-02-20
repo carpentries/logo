@@ -48,3 +48,8 @@ Here is a quick link and a preview of all the .png and .svg files in this repo.
  
 ![Badge_Carpentries.png](Badge_Carpentries.png)
  
+## Logos for Lesson Programs
+
+- [Click here for **Data Carpentry** logos.](https://github.com/datacarpentry/logos)
+- [Click here for **Library Carpentry** logos and a style guide.](https://github.com/LibraryCarpentry/lc-styleguide)
+- [Click here for **Software Carpentry** logos.](https://github.com/swcarpentry/communications/tree/master/misc/logo)
